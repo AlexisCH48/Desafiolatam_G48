@@ -1,0 +1,21 @@
+body {
+    background: lightblue;
+}
+
+h2 {
+text-align: center;
+color: blue;
+}
+
+.verde {
+    color: green;
+}
+
+.centrado {
+    text-align: center;
+}
+
+#subtitulo {
+    text-align: right;
+    color: white;
+}
