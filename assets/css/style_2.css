@@ -1,0 +1,11 @@
+.oscuro {
+    padding: 20px;
+    background: #000f08;
+    color: #ffffff;
+}
+
+.oscuro a {
+    color: #ffffff;
+    text-decoration: none;
+}  
+
